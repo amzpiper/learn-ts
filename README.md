@@ -1,4 +1,4 @@
-# TypeScript
+# TypeScript 语法
 
 ### 一、多行字符串
 > 注意是Esc下面的符号
